@@ -1,0 +1,356 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.content {
+    width: 1440px;
+    height: auto;
+    text-align: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.image {
+    margin-right: -10px;
+}
+.btn_radint {
+    margin-left: -48px;
+}
+.heading_content {
+    display: flex;
+}
+.content_middle3 {
+    width: 200px;
+}
+.heading_menu {
+    display: flex;
+    margin-left: 371px;
+}
+.heading_menu ul {
+    display: flex;
+}
+.heading_menu ul li a {
+    text-decoration: none;
+    color: #5D5D5D;
+    padding-left: 32px;
+    font-size: 20px;
+}
+.heading_menu ul li {
+    list-style: none;
+}
+.contact {
+    display: flex;
+    margin-left: 200.25px;
+}
+.btn1 {
+    margin-left: 24px;
+}
+.btn2 {
+    margin-left: 24px;
+}
+.contact button {
+    width: 84px;
+    height: 42px;
+    font-size: 14px;
+}
+.btn1 button {
+    background-color: white;
+    border-color: #F54748;
+    color: #F54748;
+    border-radius: 10px 10px 10px 10px;
+}
+.btn1 button:hover {
+    background-color: #F54748;
+    color: white;
+}
+.btn2 button {
+    background-color: #F54748;
+    color: white;
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+}
+.btn2 button:hover {
+    background-color: white;
+    color: #F54748;
+    border-style: inset;
+}
+.heading_content {
+    margin-top: 40px;
+}
+.heading_menu {
+    margin-top: 10px;
+}
+.logo_cart {
+    margin-top: 5px;
+}
+.logo {
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.btn_middle button {
+    color: #F54748;
+    background-color: #FFEEEE;
+    width: 160px;
+    height: 45px;
+    border: none;
+    margin-right: 298px;
+    border-radius: 10px 10px 10px 10px;
+    font-weight: bold;
+}
+
+.text_middle2 form {
+    margin-right: 200px;
+    margin-top: 32px;
+}
+.ct1 {
+    margin-top: 132px;
+    margin-right: 1000px;
+    margin-left: 20px;
+    width: 506px;
+    height: auto;
+}
+.btn_middle {
+    margin-bottom: 32px;
+    margin-left: -20px;
+}
+.text_middle2 {
+    margin-top: 32px;
+}
+.text_middle2 p {
+    font-size: 20px;
+    width: 620px;
+    text-decoration: none;
+    margin-left: -5px;
+}
+.middle_content {
+    display: flex;
+}
+.ct2 img{
+    margin-top: 78px;
+    margin-left: 130px;
+}
+.text_middle2 input {
+    width: 400px;
+    height: 50px;
+    border-color: #F54748;
+    background-color: white;
+    margin-left: 12px;
+    border-radius: 10px 0px 0px 10px;
+}
+.text_middle2 button {
+    width: 200px;
+    height: 54px;
+    background-color: #F54748;
+    border: none;
+    color: white;
+    border-radius: 0px 10px 10px 0px;
+}
+.text_middle {
+    margin-left: -30px;
+}
+.ct1 p {
+    text-align: left;
+}
+.content_middle2 {
+    margin-left: -70px;
+    margin-top: 97px;
+}
+.content_middle2 h1 {
+    font-size: 48px ;
+}
+.content_middle2 p {
+    width: 706px;
+    height: 56px;
+    margin-left: 390px;
+    margin-top: 24px;
+    font-size: 16px;
+}
+.grid_items {
+    margin-top: 87px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 130px;
+    justify-content: center;
+    margin-top: -20px;
+}
+.items img {
+    border-radius: 10px 10px 10px 10px;
+    width: 400px;
+}
+.items {
+    width: 400px;
+    height: 395px;
+    margin-left: 73px;
+    justify-content: center;
+    margin-top: 90px;
+}
+.items p {
+    color: #F54748;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 4px;
+    text-align: left;
+}
+.items img:hover {
+    box-shadow: 5px 5px 5px 5px #5D5D5D;
+}
+.content {
+    margin-left: 80px;
+}
+.items .small_lg img{
+    width: 100px;
+    height: 24px;
+    margin-right: 20px;
+}
+.small_lg {
+    margin-left: -175px;
+}
+.text_md3 h1 {
+    font-size: 48px;
+    text-align: left;
+    margin-top: 102px;
+    margin-left: -15px;
+}
+.btn_radint button {
+    border-radius: 5px 5px 5px 5px;
+    background-color: white;
+    border-color: #F54748;
+    color: #F54748;
+    margin-left: 960px;
+    width: 220px;
+    height: 60px;
+    margin-top: 110px;
+    font-size: 18px;
+    font-weight: bolder;
+}
+.btn_radint button:hover {
+    background-color: #F54748;
+    color: white;
+}
+.text_md3 {
+    display: flex;
+}
+.image_items {
+    display: flex;
+    margin-top: 80px;
+    margin-left: -140px;
+}
+.submit button {
+    border-radius: 5px 5px 5px 5px;
+}
+.image {
+    margin-left: 120px;
+}
+.image p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: -40px;
+
+}
+.form {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.form p {
+    font-weight: bold;
+    color: #5D5D5D;
+}
+.Letters h1 {
+    font-size: 48px;
+}
+.Letters {
+    margin-left: 640px;
+    margin-top: 96px;
+    margin-bottom: 64px;
+}
+.form {
+    margin-left: 50px;
+}
+.no1 input {
+    width: 660px;
+    height: 60px;
+    margin-bottom: 24px;
+    margin-top: 12px;
+    border-color: #000000 10%;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 20px;
+}
+.no2 input {
+    width: 660px;
+    height: 60px;
+    margin-bottom: 24px;
+    margin-top: 12px;
+    border-color: #000000 10%;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 20px;
+}
+.no2 {
+    margin-left: -668px;
+}
+.no3 input {
+    width: 1420px;
+    height: 200px;
+    border-radius: 5px 5px 5px 5px;
+}
+.form p {
+    color: #000000 60%;
+}
+.form input {
+    font-size: 20px;
+}
+.submit button {
+    margin-left: 670px;
+    width: 180px;
+    height: 64px;
+    margin-top: 32px;
+    background-color: #000000;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+.vector img {
+    margin-left: 45px;
+    margin-top: 96px;
+    margin-bottom: 32px;
+    width: 1440px;
+}
+.end {
+    margin-left: 30px;
+}
+.end .heading_menu {
+    margin-left: 1050px;
+    margin-top: -25px;
+}
+.text_middle2 button:hover {
+    background-color: white;
+    color: #F54748;
+    border-color: #F54748;
+    border-style: inset;
+}
+.submit button:hover {
+    background-color: white;
+    color: #000000;
+}
+.heading_menu a:hover {
+    color: #F54748;
+}
+input:hover {
+    box-shadow: 2px 2px 2px 2px;
+}
+.Discover {
+    width: 400px;
+    margin-left: 10px;
+}
+.Discover button:hover {
+    box-shadow: 2px 2px 2px 2px;
+}
+.text_middle2 p {
+    margin-left: 20px;
+}
+.middle_content {
+    margin-left: -20px;
+}

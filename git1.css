@@ -1,0 +1,201 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.content {
+    width: 1440px;
+    height: auto;
+    text-align: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.heading_content {
+    display: flex;
+}
+.heading_menu {
+    display: flex;
+    margin-left: 371px;
+}
+.heading_menu ul {
+    display: flex;
+}
+.heading_menu ul li a {
+    text-decoration: none;
+    color: #5D5D5D;
+    padding-left: 32px;
+    font-size: 20px;
+}
+.heading_menu ul li {
+    list-style: none;
+}
+.contact {
+    display: flex;
+    margin-left: 200.25px;
+}
+.btn1 {
+    margin-left: 24px;
+}
+.btn2 {
+    margin-left: 24px;
+}
+.contact button {
+    width: 84px;
+    height: 42px;
+    font-size: 14px;
+}
+.btn1 button {
+    background-color: white;
+    border-color: #F54748;
+    color: #F54748;
+    border-radius: 10px 10px 10px 10px;
+}
+.btn1 button:hover {
+    background-color: #F54748;
+    color: white;
+}
+.btn2 button {
+    background-color: #F54748;
+    color: white;
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+}
+.btn2 button:hover {
+    background-color: white;
+    color: #F54748;
+    border-style: inset;
+}
+.heading_content {
+    margin-top: 40px;
+}
+.heading_menu {
+    margin-top: 10px;
+}
+.logo_cart {
+    margin-top: 5px;
+}
+.logo {
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.middle_content {
+    display: flex;
+    margin-top: 135px;
+}
+.describe h2 {
+    color: #F54748;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-align: left;
+}
+.describe h1 {
+    font-size: 45px;
+    text-align: left;
+}
+.describe p {
+    text-align: left;
+    font-size: 18px;
+}
+.describe {
+    width: 620px;
+    margin-left: 18px;
+    margin-left: -1290px;
+}
+.des_img img {
+    margin-left: 50px;
+}
+.describe input {
+    margin-top: 32px;
+    margin-left: -300px;
+    width: 180px;
+    height: 42px;
+    border-radius: 6px 6px 6px 6px;
+}
+.describe button {
+    width: 110px;
+    height: 42px;
+    background-color: black;
+    color: white;
+    border-radius: 6px 6px 6px 6px;
+    margin-left: 20px;
+}
+.describe button:hover {
+    background-color: white;
+    color: black;
+    border-style: inset;
+    border-radius: 6px 6px 6px 6px;
+}
+.text h1 {
+    text-align: left;
+    margin-top: 91px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-left: 10px;
+}
+.grid_items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.grid img {
+    border-radius: 10px 10px 10px 10px;
+}
+.grid_items {
+    width: 1355px;
+    padding-right: 80px;
+    margin-left: -15px;
+}
+.grid h2 {
+    text-align: left;
+    margin-right: 200px;
+    margin-top: 11px;
+    font-weight: bold;
+    color: #F54748;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+.grid p {
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 24px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.grid button {
+    width: 400px;
+    height: 42px;
+    background-color: black;
+    color: white;
+    border-radius: 5px 5px 5px 5px;
+}
+.content {
+    margin-left: 70px;
+}
+.vector img {
+    margin-left: -80px;
+    margin-top: 96px;
+    margin-bottom: 32px;
+    width: 1320px;
+}
+.end {
+    margin-left: 30px;
+    display: flex;
+}
+.end .heading_menu {
+    margin-left: 813px;
+    margin-top: -25px;
+}
+.grid img:hover {
+    box-shadow: 5px 5px 5px 5px;
+}
+.grid button:hover {
+    background-color: white;
+    color: black;
+}
+.heading_menu a:hover {
+    color: #F54748;
+}
+input:hover {
+    box-shadow: 2px 2px 2px 2px;
+}
